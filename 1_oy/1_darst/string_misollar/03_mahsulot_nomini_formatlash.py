@@ -1,0 +1,5 @@
+nom = input()
+sozlar = nom.split()
+tozalangan_nom = " ".join(sozlar)
+natija = tozalangan_nom.title()
+print("Mahsulot:", natija)
